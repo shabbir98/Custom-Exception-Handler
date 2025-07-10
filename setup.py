@@ -5,7 +5,7 @@ setup(
     version="0.1.0",
     description="Reusable custom exception handler for Django REST Framework",
     author="Shabbir Habib",
-    author_email="shabbirhabib2014+ceh@gmail.com",
+    author_email="84226838+shabbir98@users.noreply.github.com",
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
